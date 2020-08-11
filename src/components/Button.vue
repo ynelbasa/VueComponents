@@ -77,6 +77,7 @@ div > button:hover {
   transition-duration: 0.28s;
   transition-property: box-shadow, transform, opacity;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  font-weight: 300;
 }
 
 .xsmall {
